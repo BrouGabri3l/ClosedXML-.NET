@@ -10,11 +10,11 @@ open project root folder and execute it on terminal
 it will run in your local machine 
 
 to get excel, open your browser and paste the generated link on your terminal logs and click on the button to download, or go to **/api/country** Endpoint 
-![SCREEN](PageC#)
+![SCREEN]("PageCSharp.png")
 
-![TERMINAL](TerminalC#)
+![TERMINAL](TerminalCSharp.png)
 or open **Postman** and click in ***SEND AND DOWNLOAD*** d with the url pasted with the endpoint **/api/country** and method setted to ***GET***
 
-![POSTMAN](PostmanC#.png)
+![POSTMAN](PostmanCSharp.png)
 when you access the api endpoint and download the excel file your console will be like this
 
