@@ -10,7 +10,7 @@ open project root folder and execute it on terminal
 it will run in your local machine 
 
 to get excel, open your browser and paste the generated link on your terminal logs and click on the button to download, or go to **/api/country** Endpoint 
-![SCREEN]("PageCSharp.png")
+![SCREEN](PageCSharp.png)
 
 ![TERMINAL](TerminalCSharp.png)
 or open **Postman** and click in ***SEND AND DOWNLOAD*** d with the url pasted with the endpoint **/api/country** and method setted to ***GET***
